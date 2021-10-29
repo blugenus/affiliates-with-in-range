@@ -2,6 +2,8 @@
 
 This test was done using laravel 8 and php 8.0.12
 
+For the scope of simplicity I am including .env to the repository.
+
 # Install
 
 run `composer install --optimize-autoloader --no-dev` in the same directory where this file is located
