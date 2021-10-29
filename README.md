@@ -1,3 +1,7 @@
+# Info
+
+This test was done using laravel 8 and php 8.0.12
+
 # Install
 
 run `composer install --optimize-autoloader --no-dev` in the same directory where this file is located
