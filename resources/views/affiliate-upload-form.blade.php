@@ -65,7 +65,6 @@
                     var percent = $('.percent');
                     $('form').ajaxForm({
                         complete: function (xhr) {
-                            console.log(xhr);
                             if (xhr.status==200) {
                                 var affiliatesWithinRange = $('#affiliatesWithinRange');
                                 document.querySelectorAll('.affiatesfound').forEach(element => {element.remove();});
